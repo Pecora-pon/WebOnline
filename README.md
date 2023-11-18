@@ -1,4 +1,6 @@
-Sử dụng JDK 11, MySQL Workbench
+Sử dụng JDK 11, MySQL Workbench để chạy data.sql
+
+Check tài khoản trong application.properties trước khi chạy
 
 Tài khoản user: loc1503, pass 1
 
